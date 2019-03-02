@@ -3,4 +3,4 @@
 
 ## Preview
 
-![Image description](https://github.com/douglasbrandao21/pipeline-simulators/blob/master/with-conditional/src/img/img.jpg)
+![Image description](https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg)
