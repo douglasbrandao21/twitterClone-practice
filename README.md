@@ -4,3 +4,4 @@
 ## Preview
 
 ![Image description](https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg)
+<a href="url"><img src="https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg" align="left" height="48" width="48" ></a>
