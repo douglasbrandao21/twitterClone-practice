@@ -1,5 +1,8 @@
-# Twitter Clone
- A simple application that, through the use of React, React Native and NodeJS technologies makes a copy of Twitter. The application is able to create and view tweets through a web and mobile platform, in real time.
+<p align="center">
+ # Twitter Clone
+</p>
+
+A simple application that, through the use of React, React Native and NodeJS technologies makes a copy of Twitter. The application is able to create and view tweets through a web and mobile platform, in real time.
 
 ## Preview
 <p align="center">
