@@ -3,4 +3,4 @@
 
 ## Preview
 <div style="text-align:center"><a href="url"><img src="https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg" align="left" height="800" width="400" ></a></div>
-<img src="https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg" width="200" height="400" />
+<img src="https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg" width="250" height="400" />
