@@ -3,3 +3,4 @@
 
 ## Preview
 <div style="text-align:center"><a href="url"><img src="https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg" align="left" height="800" width="400" ></a></div>
+![](https://github.com/douglasbrandao21/twitter-clone/blob/master/screenshots/view-smartphone.jpg | width=100)
